@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev4coder&show_icons=true&locale=en" alt="dev4coder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev4coder&" alt="dev4coder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev4coder" alt="dev4coder" /></p>

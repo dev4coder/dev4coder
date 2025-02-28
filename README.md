@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nagasaitulasiramk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cphlGgypuqto7iUIOMAAnttOPs0fWbZM/view?usp=drive_link](https://drive.google.com/file/d/1cphlGgypuqto7iUIOMAAnttOPs0fWbZM/view?usp=drive_link)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1Hqia59fc6aHDc4Kfj47DfB_Q25-1COta/view?usp=drive_link)
 
 - ⚡ Fun fact **I once had the opportunity to train over 10,000 new hires in Python—turns out teaching code can feel like performing a stand-up comedy routine, minus the hecklers (most of the time)!**
 
